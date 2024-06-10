@@ -1,2 +1,2 @@
-# Klasifikasi-jenis-bunga-iris
+# classification-type-of-iris
 Model deployment data iris
